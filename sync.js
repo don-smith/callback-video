@@ -1,5 +1,4 @@
 console.log('before')
-debugger
 var sum = add(1, 3)
 console.log('after')
 console.log('sum:', sum)
