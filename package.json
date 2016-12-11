@@ -1,0 +1,26 @@
+{
+  "name": "async-callbacks",
+  "version": "1.0.0",
+  "description": "Playing with JavaScript async callback functions",
+  "main": "async-callback.js",
+  "scripts": {
+    "debug": "devtool",
+    "test": "tape tests/**/*-test.js | tap-diff"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/locksmithdon/async-callbacks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/locksmithdon/async-callbacks/issues"
+  },
+  "homepage": "https://github.com/locksmithdon/async-callbacks#readme",
+  "devDependencies": {
+    "devtool": "^2.3.0",
+    "tap-diff": "^0.1.1",
+    "tape": "^4.6.3"
+  }
+}

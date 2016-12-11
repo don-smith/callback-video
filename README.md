@@ -10,3 +10,17 @@ The code in this repo was used in [this video] to illustrate synchronous functio
 * Synchronous callbacks
 * Asynchronous callbacks
 
+## Setup
+
+After cloning this repo and navigating into the directory,
+
+```sh
+node [filename]
+```
+
+or if you'd rather step through it with a debugger, save the `debugger` statement where you'd like code execution to stop, and then,
+
+```sh
+npm install
+npm debug [filename]
+```
