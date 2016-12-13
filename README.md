@@ -22,5 +22,5 @@ or if you'd rather step through it with a debugger, save the `debugger` statemen
 
 ```sh
 npm install
-npm debug [filename]
+npm run debug [filename]
 ```
