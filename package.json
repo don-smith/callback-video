@@ -21,6 +21,6 @@
   "devDependencies": {
     "devtool": "^2.3.0",
     "tap-diff": "^0.1.1",
-    "tape": "^4.6.3"
+    "tape": "^5.0.1"
   }
 }
